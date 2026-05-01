@@ -41,6 +41,4 @@ jobs:
 
       - name: Lint the codebase
         run: staticcheck ./...
-
-      
       
